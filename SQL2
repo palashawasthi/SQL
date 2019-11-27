@@ -1,1 +1,1 @@
-select * from departemnts;
+select * from departemnts where departmentid=10;
