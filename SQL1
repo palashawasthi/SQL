@@ -1,1 +1,1 @@
-select count(*) from employees where first_name like 'A%';
+select count(*) from employees where first_name like 'A%' or first_name like 'B%';
